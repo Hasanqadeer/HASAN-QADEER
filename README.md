@@ -1,4 +1,7 @@
-<img align="center" src="hasan.jpg" alt="hey i'm hasan qadeer">
+![image (1)](https://github.com/Hasanqadeer/HASAN-QADEER/assets/110293222/91cdd2e9-701f-45f3-a741-87a3068a40a6)
+
+![hasan](https://github.com/Hasanqadeer/HASAN-QADEER/assets/110293222/6703bdde-de0c-47c7-a616-97617626ccc8)
+
 <h1 align="center">Hi 👋, I'm HASAN QADEER</h1>
 <h3 align="center">A passionate MERN STACK developer from Pakistan</h3>
 
@@ -31,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanqadeer&show_icons=true&locale=en" alt="hasanqadeer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanqadeer&" alt="hasanqadeer" /></p>
+
